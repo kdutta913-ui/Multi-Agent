@@ -17,3 +17,11 @@ jinja2==3.1.6
 langchain-mcp-adapters==0.3.0
 nest_asyncio==1.6.0
 mcp==1.28.1
+
+ "command": r"C:\Python314\python.exe",
+
+            # Automatically use custom_weather_mcp_server.py
+            # from the current project directory.
+            "args": [
+                r"C:\Users\91600\Desktop\Multi-Agent\custom_weather_mcp_server.py"
+            ],
